@@ -1,0 +1,9 @@
+.statistics-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+  gap: 12px;
+}
